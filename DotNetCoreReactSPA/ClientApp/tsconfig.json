@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "baseUrl": "src",
+        "lib": [
+            "dom",
+            "es6"
+        ],
+        "jsx": "react",
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "outDir": "build",
+        "target": "es2015"
+    }
+}

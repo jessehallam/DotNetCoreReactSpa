@@ -1,0 +1,10 @@
+{
+    "rules": {
+        "quotemark": {
+            "options": ["single"]
+        },
+        "semicolon": {
+            "options": ["never"]
+        }
+    }
+}

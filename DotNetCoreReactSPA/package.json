@@ -1,0 +1,38 @@
+{
+  "name": "dotnetcore-react-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config ClientApp/webpack.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/history": "^4.7.0",
+    "@types/react": "^16.4.12",
+    "@types/react-dom": "^16.0.7",
+    "@types/react-redux": "^6.0.6",
+    "@types/react-router-dom": "^4.3.0",
+    "@types/webpack-env": "^1.13.6",
+    "aspnet-webpack": "^3.0.0",
+    "connected-react-router": "^4.4.1",
+    "history": "^4.7.2",
+    "html-webpack-plugin": "^3.2.0",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "redux": "^4.0.0",
+    "ts-loader": "^4.5.0",
+    "typesafe-actions": "^2.0.4",
+    "typescript": "^3.0.1",
+    "webpack": "^4.17.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-middleware": "^3.2.0",
+    "webpack-hot-middleware": "^2.22.3"
+  }
+}
